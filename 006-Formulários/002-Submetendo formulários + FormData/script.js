@@ -1,3 +1,4 @@
+
 "use strict";
 
 const form = document.forms.namedItem("registration");
